@@ -64,7 +64,3 @@ Este projeto está configurado com:
 - ESLint para padronização e qualidade de código.
 
 ---
-
-## 📝 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
